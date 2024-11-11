@@ -55,3 +55,4 @@ Este proyecto está Creado por Alex Boss. Gracias por usar nuestro proyecto.
 ## Screenshots del Programa
 
 
+![Captura](https://github.com/user-attachments/assets/c9eb1940-49d5-4fe3-85b5-c705c8ad75ed)
